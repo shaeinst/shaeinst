@@ -2,7 +2,7 @@
 <h1>
 
 ```bash
-echo "Hi there!"
+echo "Hi Stranger!"
 ```
 </h1>
 <!-- START -->
