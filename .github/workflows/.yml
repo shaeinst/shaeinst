@@ -1,4 +1,0 @@
-#  green_squarewhite_large_square Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
-# https://github.com/Platane/snk
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v2.0.0-rc.2
