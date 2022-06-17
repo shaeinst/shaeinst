@@ -7,7 +7,7 @@ echo "Hi Stranger!"
 </h1>
 <!-- START -->
 
-<img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=shaeinst&show_icons=true&theme=dark" align="right" width="50%" />
+<img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=shaeinst&count_private=true&show_icons=true&theme=dark" align="right" width="50%" />
 
 - I had no life
 - I have no life
